@@ -1,7 +1,8 @@
 # Bosta Cities & Districts App
 
 ## 📌 Overview
-This is an Android application built using **Kotlin**, implementing **MVVM architecture** and **Clean Architecture principles**. The app fetches a list of cities and their respective districts from the **Bosta API** and displays them in a structured list.
+This is an Android application built using **Kotlin**, implementing **MVVM architecture** and **Clean Architecture principles**.
+The app fetches a list of cities and their respective districts from the **Bosta API** and displays them in a structured list.
 
 ## 🚀 Features
 - Fetches cities and districts using **Retrofit2**.
@@ -56,5 +57,5 @@ com.task.bosta
 4. **Run the app on an emulator or physical device**.
 
 ## ✨ Author
-Developed by **[Your Name]** - [LinkedIn Profile](https://github.com/KhaledIbrahim22)
+Developed by **[Khaled Ibrahim]** - [LinkedIn Profile](https://github.com/KhaledIbrahim22)
 
