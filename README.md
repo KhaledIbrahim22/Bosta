@@ -56,6 +56,15 @@ com.task.bosta
 3. **Sync Gradle**.
 4. **Run the app on an emulator or physical device**.
 
+## Screenshots
+<table>
+  <tr>
+    <td><img src="screenshots/Screenshot_1.png" alt="Home Screen" width="1080"></td>
+    <td><img src="screenshots/Screenshot_2.png" alt="Weather Details" width="1080"></td>
+    <td><img src="screenshots/Screenshot_3.png" alt="Settings" width="1080"></td>
+  </tr>
+</table>
+
 ## ✨ Author
 Developed by **[Khaled Ibrahim]** - [LinkedIn Profile](https://github.com/KhaledIbrahim22)
 
