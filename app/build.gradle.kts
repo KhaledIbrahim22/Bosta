@@ -61,9 +61,6 @@ dependencies {
     // Hilt
     implementation(libs.hilt.android)
     implementation(libs.androidx.hilt.navigation.compose)
-    testImplementation(libs.junit.jupiter)
-    testImplementation(libs.mockk)
-    testImplementation(libs.kotlinx.coroutines.test)
     ksp(libs.hilt.android.compiler)
 
     // Coroutines
@@ -72,6 +69,11 @@ dependencies {
 
     // Testing
     testImplementation(libs.junit)
+    testImplementation(libs.junit.jupiter)
+    testImplementation(libs.mockk)
+    testImplementation(libs.kotlinx.coroutines.test)
+    testImplementation(libs.mockito.kotlin)
+    testImplementation(libs.robolectric)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     androidTestImplementation(platform(libs.androidx.compose.bom))
